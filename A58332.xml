@@ -1,0 +1,609 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions left by a gentleman to his sonns for the improvement of barren and healthy land in England and Wales.</title>
+            <author>Reeve, Gabriel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58332</idno>
+            <idno type="STC">Wing R671</idno>
+            <idno type="STC">ESTC R33979</idno>
+            <idno type="EEBO-CITATION">13646657</idno>
+            <idno type="OCLC">ocm 13646657</idno>
+            <idno type="VID">100927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100927)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1045:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions left by a gentleman to his sonns for the improvement of barren and healthy land in England and Wales.</title>
+                  <author>Reeve, Gabriel.</author>
+               </titleStmt>
+               <extent>[12], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.T. and R.H. for R. Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXX [1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped, stained and creased with some loss of print. Copy (tightly bound) from Union Theological Seminary Library spliced at end.</note>
+                  <note>"The Epistle dedicatory" signed: Gabriel Reeve.</note>
+                  <note>Running title reads: Directions for improvement of barren and healthy land.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soil conservation --  England --  Early works to 1800.</term>
+               <term>Tillage.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100927:1"/>
+            <pb facs="tcp:100927:1" rendition="simple:additions"/>
+            <p>Directions Left by a GENTLEMAN TO HIS SONNS: FOR THE Improvement Of Barren and Heathy LAND, IN <hi>ENGLAND</hi> and <hi>WALES.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. T.</hi> and <hi>R. H.</hi> for <hi>R. Royſton,</hi> Book<g ref="char:EOLhyphen"/>ſeller to the Kings moſt Excellent Majeſty, MDCLXX.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100927:2"/>
+            <pb facs="tcp:100927:2" rendition="simple:additions"/>
+            <head>TO HIS Honoured Friend, <hi>KENRICKE EYTON</hi> Eſquire, Of the <hi>Inner Temple.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have (upon aſſurance of your excellent Candor) preſumed to invite you from your more fer<g ref="char:EOLhyphen"/>tile Studies to the Barren Heath, where you will find the Air wholſome, though the Soyl be ſterril. <hi>Fruſtra ſalubris eſt locus, ubi peritur fame. Fruſtra fertilis
+<pb facs="tcp:100927:3"/>
+ubi non licet vivere.</hi> The richeſt Seats are not healthy: Health and Wealth ſeldom meet in the ſame Place. The Deſign of the enſuing Directions is to render the Barren Earth fruitful, and provide for the Profit as well as Pleaſure of thoſe whoſe Lot is fallen into a Heathy Ground. The wiſe God, who juſtly Curſed the Earth for Mans ſake, hath yet left Means of Redemption by the Sweat of his Brow, and Labour of his Hand. Humane Induſtry, with the Bleſſing of God upon it, will faecundate the Earth, which Mans ſin made unfruitful. The admirable Production of Art out of Natures dull and unweildy Womb are the Subject of many Diſcourſes; and the new Experiments of every Day allure the Ingenious to renewed Eſſayes. Amongſt the various Tryals of this kind, none is more profitable than this of Im<g ref="char:EOLhyphen"/>proving Barren Ground, and the good Husbandry to turn the parched Deſart in<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:100927:3"/>
+a Fruitful Field, and to render the unfruitful Hills as pleaſant Valleys. The Pleaſure of this may be more than gueſſed at,<note place="margin">Illi etiam praedivites, qui ab aratro accer<g ref="char:EOLhyphen"/>ſebantur, ut conſules fierent Voluptatis cau<g ref="char:EOLhyphen"/>ſâ ſterile atque aeſtu<g ref="char:EOLhyphen"/>oſum Pupiniae ſolum verſabant.</note> when we conſider the <hi>Priſca Gens,</hi> and Greateſt Men of the firſt Age were enamoured with Agri<g ref="char:EOLhyphen"/>culture: When <hi>Quintius Cincinnatus,</hi> and <hi>Marcus Curius,</hi> after they Triumphed in the Field, ran haſtily to their Farms, and coun<g ref="char:EOLhyphen"/>ted themſelves more Happy, and no leſs Ho<g ref="char:EOLhyphen"/>norable, with the Mattock and Spade in their Hand, as when they had the Sword and Scep<g ref="char:EOLhyphen"/>ter. The many <hi>Encomia</hi> of Poets, Orators, <hi>&amp;c.</hi> of the Bleſſedneſs of a Rural Life, and pleaſant Divertiſements of a little well til'd Spot, confirm this.</p>
+            <p>Now Sir, if you ſhall pleaſe to remit a little while your graver Studies, lay by your <hi>Plouden</hi> and conſult <hi>Columella,</hi> and ſhall honor theſe Directions with your experiment, you
+<pb facs="tcp:100927:4"/>
+will find ſenſible Arguments of Profit and Pleaſure, ſtrong enough to oblige you to ſpend a good part of your Vacation on the Plow.</p>
+            <p>I have been emboldned to prefix your Worthy Name to this Little Book, know<g ref="char:EOLhyphen"/>ing you a Perſon able to Protect and Vindi<g ref="char:EOLhyphen"/>cate both It and the Author, and one who will Pardon the little Errours that your piercing Eye ſhall find, and will accept kindly of the Endeavours for Publick Good, of</p>
+            <closer>
+               <dateline>Hackney, <date>
+                     <hi>April</hi> 14<hi rend="sup">th.</hi> 1670.</date>
+               </dateline>
+               <salute>Sir,</salute>
+               <signed>Your Obliged Friend, Gabriel Reeve.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:100927:4"/>
+            <head>To my Sons.</head>
+            <opener>
+               <salute>My Sons,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Leave this ſhort enſueing treatiſe to you as a Legacy, if I ſhall not live my ſelf, to ſhew you (what is therein written) by examples, which I know inſtruct far more, than precepts, yet precepts from a dying Father inſtructing of his children what he hath ſeen, and known, and re<g ref="char:EOLhyphen"/>ceived credible information of, from witneſſes free from all exceptions, ſhould make ſuch impreſſion on them, as at leaſt to believe, their Father writ what he thought was true, and therefore ſuppoſe thoſe things worthy to be put in practice by them which he himſelf would have done if it had pleaſed God to have granted him life, and liberty; eſpecially ſee<g ref="char:EOLhyphen"/>ing the matter it ſelf which is required by him to be done is in ſhew ſo profitable, and ſo eaſie to be ef<g ref="char:EOLhyphen"/>fected, and with ſo little charge, conſidering the great gain that is propoſed by it, as that not any thing can reſtrain a rational man from triall thereof, but not giving credit to the relator.</p>
+            <p>
+               <pb facs="tcp:100927:5"/>The whole diſcourſe ſhews you how to improve Barren and Heathy Land, and how to raiſe more than ordinary profit thereof, by ſuch waies, and means, as are not practiſed in <hi>England,</hi> but as commonly in ſome parts of <hi>Brabant,</hi> and <hi>Flanders,</hi> as the Husbandry of Wheat, and Rye is here. By that means you may nobly augment your eſtates, and will receive ſo much the more profit and praiſe, by how much with more induſtry and diligence you govern your affairs, and will not only be imita<g ref="char:EOLhyphen"/>ted but alſo honoured by your neighbours, when they ſhall ſee your labours proſper ſo far, as to convert Barren and Heathy Ground, left unhusbanded for many ages, into as commodious arrable Land, rich Paſtures, and Meadows, as any be in the Kingdom. And certainly that man is wrthy of praiſe, and honour, who being poſſeſſor of a large and barren demeans, conſtrains it by his labour and induſtry to produce extraordinary fruit, which redounds not on<g ref="char:EOLhyphen"/>ly to his own particular profit, but alſo to the pub<g ref="char:EOLhyphen"/>lick benefit.</p>
+            <p>
+               <hi>Cato</hi> ſaith, it is a great ſhame for a man not to leave his inheritance greater to his Succeſſors than he received it from his predeceſſors; and that he deſpiſeth the liberalities of God, who by ſloathfulneſs loſeth that which his land may bring forth, as not ſeeming willing to reap
+<pb facs="tcp:100927:5"/>
+the fruits which God hath offered him. Nay he threatens the crime of high treaſon to thoſe that do not augment their Patrimony, ſo much, as the encreaſe ſurmounts the principall. It is a thing much celebrated by antiquity, and thought the nobleſt way, togather wealth, for to employ ones Wit and Money, upon his Land, and by that means to aug<g ref="char:EOLhyphen"/>ment his eſtate.</p>
+            <p>If you obſerve the common courſe of things you will find, that husbandry is the end which men of all eſtates in the World do point at.</p>
+            <p>For to what purpoſe do Souldiers, Schollars, Law<g ref="char:EOLhyphen"/>yers, Merchants, and Men of all Occupations and Trades, toyl and labour with great affection but to get Money, and with that Money when they have gotten it, to purchaſe Land, and to what end do they buy that Land, but to receive the fruits of it to live, and how ſhall one receive the fruits of it but by his own husbandry, or by a Farmers: So that it appears by degrees, that what courſe ſoever a man taketh in this World, at laſt he cometh to hus<g ref="char:EOLhyphen"/>bandry, which is the moſt common occupation a<g ref="char:EOLhyphen"/>mongſt men, the moſt natural, and holy, being com<g ref="char:EOLhyphen"/>manded by the mouth of God to our firſt Fathers.</p>
+            <p>There is care and diligence requiſite in husbandry, as there is in all the actions of the World; and therefore as a Captain hath a Lievtenant to com<g ref="char:EOLhyphen"/>mand
+<pb facs="tcp:100927:6"/>
+his Souldiers in his abſence, or for his eaſe, ſo muſt you provide ſome honeſt able man to whom you will commit the execution of ſuch things as you your ſelves cannot do without too much labour, whereof you muſt often take an accompt, and confer with him as occaſion ſhall require about your bu<g ref="char:EOLhyphen"/>ſineſs, that nothing may be left undone, for want of providence; to ſuch a man you muſt give good wages, with intent to advance your own gain, and take the more eaſe by reaſon of his honeſty and know<g ref="char:EOLhyphen"/>ledge.</p>
+            <p>You will find this Husbandry (after you have once had experience of it) to be very pleaſing to you, and ſo exceeding profitable, that it will make you diligent: For no man of any art or ſcience, except an Alchemiſt, ever pretended ſo much gain any other way as you ſhall ſee demonſtrated in this enſueing treatiſe.</p>
+            <p>The <g ref="char:V">Ʋ</g>ſurer doubles but his principall with In<g ref="char:EOLhyphen"/>tereſt upon Intereſt in ſeven years, but by this little treatiſe you ſhall learn how to do more than treble your principall within the compaſs of one year.</p>
+            <p>And you ſhall ſee how an induſtrious man in <hi>Bra<g ref="char:EOLhyphen"/>bant</hi> and <hi>Flanders</hi> would bring five hundred acres of barren and heathy Land, that was not worth at the moſt above fifty pound a year to be worth ſeven
+<pb facs="tcp:100927:6"/>
+thouſand pound a year, in leſſe time than ſeven years. I know no reaſon why the like may not be done in <hi>England,</hi> for we are under as good a Climate, as they are; Our Heathy Land that is neither Sand, nor Loam, is as good a ſoyl, as their bar<g ref="char:EOLhyphen"/>ren ground is; We have not only Dung to enrich our Land, but alſo Lime, and Marle, of which they know not the uſe (where they ſow their gainfulleſt Commodities mentioned in this enſueing treatiſe,) nor of any other Manure, but only dung. In fine, I am certain there is none of their Commodities but grow in <hi>England</hi> as they do in <hi>Brabant,</hi> and <hi>Flanders,</hi> but ours are not of the ſame kind as theirs, nor put to the ſame uſe, what cannot be vented at home may as well be vented from hence into <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> as the like commodities are from <hi>Flanders</hi> thither. I will ſay no more of this ſubject in the preface, only it remains to tell you that you muſt not expect either Eloquence, or Method in this enſueing treatiſe, but a true ſtory plainly ſet forth in the laſt Will and Teſtament of your Father, which he would have you execute; but before all things to be ſure you lay the foundation of your husbandry, upon the bleſſing of Almighty God, continually im<g ref="char:EOLhyphen"/>ploring his Divine Aid, and aſſiſtance in all your labours; for it is God that gives the encreaſe, and believing this, as the quinteſcence and ſoul of
+<pb facs="tcp:100927:7"/>
+husbandry, <hi>Primum quaerite Regnum Dei, et poſtea haec omnia adjicientur Vobis.</hi> Theſe things being briefly premiſed, I will leave the reſt to this ſhort enſueing Treatiſe, and commit you all with a Fathers bleſſing to the protection and providence of Almighty God.</p>
+            <gap reason="illegible: missing" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:100927:7"/>
+            <head>Directions FOR IMPROVEMENT Of Barren and Heathy Land.</head>
+            <p>IT is a certain thing that the chiefeſt and fundamentalleſt point in husbandry, is to underſtand the nature and condition of the Lands that one would till, and ſow it with ſuch ſeeds as it will produce, either naturally or by art, which may turn a man to the greateſt pro<g ref="char:EOLhyphen"/>fit, and advantage.</p>
+            <p>I did think I had underſtood that point (when I went out of <hi>England</hi>) after 30 years experience in husbandry, and having improved my Land as much as any man in this Kingdom had done both by Water, and Fire.</p>
+            <p>But after I had been a while in <hi>Brabant</hi> and <hi>Flanders,</hi> I found I was to learn a new leſſon in point of husbandry, for that the barreneſt, hea<g ref="char:EOLhyphen"/>thy
+<pb n="2" facs="tcp:100927:8"/>
+and ſandy Lands in thoſe Countries did pro<g ref="char:EOLhyphen"/>duce richer Commodities by an ordinary way of husbandry there in practice, than the ſtrongeſt and richeſt grounds that were in both thoſe Coun<g ref="char:EOLhyphen"/>tries.</p>
+            <p>When I firſt arrived at <hi>Dunkirk</hi> and went to <hi>Bridges,</hi> which was neer forty miles, <hi>I</hi> ſaw as rich a Country as ever my eyes beheld, ſtock't with goodly wheat and barley, and excellent meadows and paſtures; The ſoil began to alter into worſe midway, between <hi>Bridges</hi> and <hi>Gaunt,</hi> which were 24 Engliſh miles aſunder, and ſo ſoon as I was paſt <hi>Gaunt</hi> in my journey towards <hi>Antwerpe,</hi> I did ſee ſuch Land for about twenty miles together, that <hi>I</hi> cannot compare to any ground more like than the Land by <hi>Sandy Chappel</hi> three miles diſtant from <hi>Kingſton</hi> upon <hi>Thaines,</hi> a great part of the high-waies out of the road and track of Horſes, and Carts, did bear heath, and ſuch incloſures on the inſide of the waies which were not kept in tillage, did either produce heath or broom, of their own natures.</p>
+            <p>The ſoil did not much amend untill I came within two miles of <hi>Antwerpe,</hi> which was thirty Engliſh miles from <hi>Gaunt.</hi> There I ſaw a goodly Marſh or feeding ground for Cattel, which was kept with a ſtrong bank for being overflowed by
+<pb n="3" facs="tcp:100927:8"/>
+the river of <hi>Sceld,</hi> under which notwithſtanding there lay ſluces to let in the water when they plea<g ref="char:EOLhyphen"/>ſed, and ditches were made in the Marſh to con<g ref="char:EOLhyphen"/>vey it back into the River at low tides when they thought fit.</p>
+            <p>On the other ſide of <hi>Antwerpe</hi> was contribu<g ref="char:EOLhyphen"/>tion land lying in <hi>Brabant,</hi> which naturally was as barren and apt to heath as any land betwixt that City and <hi>Gaunt:</hi> I ſtaid not long at <hi>Antwerpe</hi> be<g ref="char:EOLhyphen"/>fore I returned to <hi>Gaunt,</hi> and diligently reviewing of the Country as I went back, I could find no o<g ref="char:EOLhyphen"/>ther corn to grow there, than rye, Oats and French wheat, which ſeemed a ſufficient teſtimony to me of the barreneſs of the ſoyl, which would neither bear wheat, barley, or Peaſe, and for that the for<g ref="char:EOLhyphen"/>mer Grains did uſually grow in <hi>England</hi> upon the edge of forreſts and heathy grounds.</p>
+            <p>A few days after my return, I fell into diſ<g ref="char:EOLhyphen"/>courſe with a dutch Merchant then living at <hi>Gaunt,</hi> but had lived ſome years in <hi>England,</hi> and told him that I did not think all <hi>Flanders</hi> had yielded ſo much barren ground, as I had ſeen between <hi>Gaunt,</hi> and <hi>Antwerpe.</hi>
+            </p>
+            <p>He anſwered me, that that Land was the richeſt part of all <hi>Flanders.</hi>
+            </p>
+            <p>I ſmiled to hear him ſay ſo, thinking at firſt he had jeſted, and I replyed that I believed that one acre
+<pb n="4" facs="tcp:100927:9"/>
+of Land between <hi>Bridges</hi> and <hi>Dunkirk,</hi> was worth ten acres of any land I ſaw there between <hi>Gaunt</hi> and <hi>Antwerpe;</hi> (excepting the Marſh land and ſome little ſtraps of Meadow by the river ſide) for the one did bear goodly Wheat, Barley, and Peaſe, and was in many places naturally excellent meadow &amp; paſture, and the other would carry no other Corn but Rye, French Wheat and oats, and would ne<g ref="char:EOLhyphen"/>ver bear any conſiderable graſs, but turned pre<g ref="char:EOLhyphen"/>ſently after it was laid down to heath or broom.</p>
+            <p>The Merchant told me again that their beſt commodities were pull'd and cut before I went that way, but he would prove that that Land did yield more profit yearly than the beſt Land in <hi>Flanders,</hi> and that the Boores (for ſo they term their Farmers) were richer there than in any part of the Country.</p>
+            <p>
+               <hi>I</hi> muſt confeſs at firſt, <hi>I</hi> thought his diſcourſe to be ſome kind of riddle, but ſeeing him earneſt in affirming that which ſeemed ſtrange to me, <hi>I</hi> de<g ref="char:EOLhyphen"/>ſired him to explain himſelf, how it was poſſible, that that Land ſhould yield more profit than the other.</p>
+            <p>
+               <hi>I</hi> will tell you ſaid he the reaſon; why it yieldeth more profit is, becauſe that Land is naturall to bear Flax, (which is called the wealth of <hi>Flanders</hi>) and one acre of good Flax is worth four or five acres
+<pb n="5" facs="tcp:100927:9"/>
+of the beſt corn which groweth between <hi>Dun<g ref="char:EOLhyphen"/>kirk</hi> and <hi>Bridges,</hi> and after the Flax is pulled, it will preſently bear a crop of turneps, which may be better worth, acre for acre, than the beſt corn in the Country.</p>
+            <p>After that crop is off, about <hi>April</hi> following you may ſow the ſame land with Oats, and upon them Clover-graſs-ſeed only harrowing it with buſhes which will come up after the Oats are mowed, and that year yield you a very great paſture till Chriſtmas; and the next year follow<g ref="char:EOLhyphen"/>ing you may cut that graſs three times, and it will every time bear ſuch a burthen, and ſo good to feed all ſorts of cattel, as the beſt meadows in the Country do not yield the like, and will con<g ref="char:EOLhyphen"/>tinue good four or five years together without ſowing it.</p>
+            <p>After this we parted, at firſt I wondred much at his diſcourſe, but much more at the ignorance or ſloathfulneſs of our Country, which being near to <hi>Flanders;</hi> and many Merchants and Gentlemen travelling thither dayly; none ſhould under<g ref="char:EOLhyphen"/>ſtand, or at leaſt put in practice theſe hus<g ref="char:EOLhyphen"/>bandries, there being ſo much barren and heathy Land in <hi>England</hi> of very little value, which might by following their example in theſe husbandries be made more profitable than the beſt land in this Kingdo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>
+               <pb n="6" facs="tcp:100927:10"/>I after pondered what the Merchant ſaid, all that day and the next, and then began to imagine with my ſelf, what a huge improvement <hi>I</hi> might make of my own eſtate, if theſe things were true which he had told me, and if God almighty pleaſed to per<g ref="char:EOLhyphen"/>mit me quietly to enjoy it.</p>
+            <p>And to be further ſatisfied, I ſent to another dutchman in the Town that had been in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> with whom I was grown acquainted, and de<g ref="char:EOLhyphen"/>ſired him to inform himſelf from ſome of the Boores in the Country, whether thoſe things the Merchant had affirmed to me were true; he re<g ref="char:EOLhyphen"/>turned me an anſwer from three or four whom he ſaid he knew to be honeſt men and under<g ref="char:EOLhyphen"/>ſtanding in thoſe husbandries; that a gammet of flax, which was their acre, but ſomewhat more in quantity than ours, might well produce 40 or fifty pounds worth of flax, if the land were well dunged and husbanded, and ſowed with good eaſt-Country ſeed, and that it pleaſed God to ſend convenient rain after it was ſowed, and a ſea<g ref="char:EOLhyphen"/>ſonable time till harveſt; theſe were no other con<g ref="char:EOLhyphen"/>ditions, than <hi>I</hi> conceived all other ſeed and grain to be ſubject to, either for to prove good or bad.</p>
+            <p>And for the other queſtions wherein <hi>I</hi> deſired to be ſatisfied, concerning the Turneps and Clover-graſs, he told me, they did concurr in all with
+<pb n="7" facs="tcp:100927:10"/>
+the Merchant without any other condition or limitation.</p>
+            <p>The Winter after, <hi>I</hi> did examine divers perſons upon like queſtions, which <hi>I</hi> thought did under<g ref="char:EOLhyphen"/>ſtand that buſineſs, and found very little difference in their relations.</p>
+            <p>And in <hi>April</hi> following, which was the chief<g ref="char:EOLhyphen"/>eſt time for ſowing of flax and clovergraſs-ſeed, <hi>I</hi> did often walk into the fields, a mile or more out of the Town, and expoſtulated the buſineſs with the Boores, when they were ſowing of flax and clover-graſs-ſeed, and afterwards obſerved that theſe things did proſper very well on ſuch ground as <hi>I</hi> conceived to be extreme barren of its own nature.</p>
+            <p>But further to inform my ſelf more fully what an acre of flax might be worth, <hi>I</hi> bought an En<g ref="char:EOLhyphen"/>gliſh Rod of flax when it was grown up, neither the beſt nor worſt, and cauſed it to be pulled, watered, and dreſſed by it ſelf, then valued it as flax was ſold the week following in the Market at <hi>Gaunt</hi> and the ſeed likewiſe; afterwards <hi>I</hi> caſt up what eight rod, which was an acre, would riſe unto according to that valuation, and <hi>I</hi> found that it came to 36 pounds 14 ſhillings 6 pence; and though by that rate an acre did not come to forty pounds, yet it made me believe that an
+<pb n="8" facs="tcp:100927:11"/>
+acre of good flax might be worth forty pounds and more; for that which <hi>I</hi> tried was but indif<g ref="char:EOLhyphen"/>ferent flax.</p>
+            <p>
+               <hi>I</hi> went preſently afterwards to <hi>Antwerpe,</hi> and ſaw almoſt every third or fourth field by the highway-ſide for 25 miles together ſtocked with goodly flax, far beyond that which <hi>I</hi> bought to make my tryall off, whereof ſome was pulled, and the reſt was ready to pull.</p>
+            <p>The ſimilitude of a great quantity of land <hi>I</hi> had in <hi>England</hi> unto theirs in <hi>Flanders</hi> and <hi>Brabant</hi> which <hi>I</hi> ſaw did bear their richeſt commodities, and my loſſe in <hi>England</hi> both of Perſonal and Real e<g ref="char:EOLhyphen"/>ſtate, made me enquire after all husbandries of thoſe Countries, of ſuch as <hi>I</hi> conceived could any way inſtruct me that <hi>I</hi> might learn ſomething or other whereby to repair my fortunes, if hereaf<g ref="char:EOLhyphen"/>ter it pleaſed almighty God to give me leave to enjoy my own eſtate in peace again.</p>
+            <p>And being one day in company of ſome Mer<g ref="char:EOLhyphen"/>chants, it happened that diſcourſe fell out about improvement of their barren ground, <hi>I</hi> ſaid that <hi>I</hi> had a great quantity of barren and heathy land in <hi>England</hi> that <hi>I</hi> thought might eaſily be brought to bear flax, turneps, and clover-graſs, as well as their barren lands did in <hi>Flanders</hi> and <hi>Brabant.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:100927:11"/>To which a Merchant anſwered, that he would carry me to a man within three miles of <hi>Ant<g ref="char:EOLhyphen"/>werpe</hi> who had taken a Farm upon improvement, which was juſt ſuch Heathy Land as I deſcribed mine to be, for he was about five years ſince to have bought it, and when he ſaw it all Heath he would not meddle with it, but the Farmer had ſo improved it already, that he had now growing up<g ref="char:EOLhyphen"/>on it a Nurſery of twelve acres of all ſorts of trees, as Pear-trees, Apple-trees, Cherry-trees, Cheſ-nut and Walnut-trees, Oaks, Aſhes, Elms and the like, he had there alſo growing both Flax, Turneps, and Clover-graſs, Roman-beans, and moſt ſorts of Corn, and he had planted a hop-ground and an Orchard, he ſaid he would tell me what husbandry he uſed to make ſuch a ſtrange converſion, and that I could not pleaſe him better than to come ſee it and applaud his husbandry, and he did aſſure me that it was worth my Journey and to be informed from him, for never a man in that Country could bet<g ref="char:EOLhyphen"/>ter inſtruct me than he, and I will (ſaid he) go thither with you when you pleaſe.</p>
+            <p>I thanked him very kindly for his offer, and told him I would wait upon him thither to mor<g ref="char:EOLhyphen"/>row morning, it was agreed between us, and ſome others that were there ſaid, they would wait of us both to ſee this wonder.</p>
+            <p>
+               <pb facs="tcp:100927:12"/>But <hi>I</hi> asked him before we parted what that taking a Farm upon improvement was which he before did ſpeak of, he anſwered, that when ano<g ref="char:EOLhyphen"/>ther had bought the Land, this man offered more rent than he could make of it at that time, to have a Leaſe for twenty one years, upon condition, that whatſoever four indifferent perſons, whereof two to be choſen by the one and two by the other, ſhould judge the Farm to be improved above the rent, at the end of his leaſe the owner was to pay ſo much in value to the tenant for his improveing of it.</p>
+            <p>
+               <hi>I</hi> told him it was a way of letting land <hi>I</hi> never knew of before, he anſwered it was an ordinary way with them of letting ſuch barren land as men could not tell how to manage themſelves.</p>
+            <p>The next day we went thither, and the firſt thing we ſaw was his Nurſery of trees which did grow and proſper very well, and he made account they would yield him ten thouſand pounds before his leaſe was expired, and as I remember he valu<g ref="char:EOLhyphen"/>ed them one with another but at two ſhillings a tree.</p>
+            <p>Then <hi>I</hi> ſaw a little cloſe of Flax, which <hi>I</hi> e<g ref="char:EOLhyphen"/>ſteemed to be about three Engliſh acres, of which Flax he told me the Merchant that brought me thi<g ref="char:EOLhyphen"/>ther before <hi>I</hi> came from <hi>Antwerpe,</hi> that he had
+<pb n="11" facs="tcp:100927:12"/>
+made one hundred and fifty pounds which was by computation fifty pound an acre.</p>
+            <p>
+               <hi>I</hi> alſo ſaw growing there very good turneps, and excellent clovergraſs which he valued to be then worth 12 pounds an acre.</p>
+            <p>I after ſaw it cutting the firſt day of <hi>June</hi> one thouſand fix hundred fifty four being then two foot long and very thick, and went thither again the twenty ninth day of the ſame month, and ſaw the ſame graſs grown up, and then cutting again, being twenty inches long.</p>
+            <p>I ſaw it cutting again, in <hi>Auguſt</hi> following be<g ref="char:EOLhyphen"/>ing then eighteen inches long, I viewed the grounds round about and found the skirts of the cloſes left unplowed, to be heath, and both he and the Merchant affirmed, all the reſt where his flax, and clover-graſs grew, was heath but three years before.</p>
+            <p>I was very inquiſitive of him to know what hus<g ref="char:EOLhyphen"/>bandry he uſed to the Land for to convert it from Heath, to bear ſuch rich commodities.</p>
+            <p>He told me, firſt he broke it up with a ſtrong Teem of Horſes, then plowed it croſs afterwards tore of the Heath with a great Harrow, then ga<g ref="char:EOLhyphen"/>thered it up and burnt it, and laid about twenty loads of dung upon an acre, and ſpread it upon the land, then plowed it again, and ſowed the
+<pb n="12" facs="tcp:100927:13"/>
+firſt crop with Rye, the next with Oats, and when he had harrowed his oats, he ſowed clover-graſs-ſeed upon them, which he harrowed with a bundle of buſhes, under his harrow, and that came after the oats was of, to be a very good paſture before <hi>Mi<g ref="char:EOLhyphen"/>chaelmas,</hi> and this third year he had mowed the clover-graſs thrice as I had ſeen, and it would come to a very good paſture quickly to feed till <hi>Chriſt<g ref="char:EOLhyphen"/>mas,</hi> and the ſame he thought he ſhould do for three years more, but afterwards the ground would turn to an ordinary graſs, he ſaid he uſed his ground where his flax grew as his other, but firſt a<g ref="char:EOLhyphen"/>gain about half the quantity of dung he did at firſt, and then ſowed it with flax, and upon the flax, clovergaſs-ſeed, as he had done before upon the oats: his Roman beans, his hops and orchard thrived very well, and all with the ſame quantity of dung proportionably uſed, for there they know no other Manure.</p>
+            <p>
+               <hi>I</hi> asked him how he could make twelve pound of an acre of this clover-graſs, He ſaid either by feeding Cattel or keeping Kine, or laying it for feed, after the firſt out, for an acre of it being made part into Hay, and the reſt fed green, would keep four Kine Winter and Summer, and an acre laid for ſeed might carry five buſhels, which valued at ſix pence a pound came to eight pound ſterling
+<pb n="13" facs="tcp:100927:13"/>
+beſides the firſt and ſecond cuts <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> graſs, and hay, and the after-paſture: He ſaid the beſt time for ſow<g ref="char:EOLhyphen"/>ing flax, and clover-graſ-ſeeds was about the be<g ref="char:EOLhyphen"/>ginning of <hi>April</hi> preſently afer a ſhower of rain, ſome continue ſowing of flax untill the end of <hi>May,</hi> and ſome ſow after, though <hi>I</hi> know no cauſe to commend their ſlowneſs in ſowing of it ſo late.</p>
+            <p>I was not very inquiſitive after his other Commo<g ref="char:EOLhyphen"/>dities, <hi>I</hi> ſaw by his Turneps which he ſowed upon his Heathy Land at his firſt breaking up, that he differed in that point from all other Husbandmen in thoſe Countries, who ſowed them immediately after Rye, or Flax, but thoſe things are left to e<g ref="char:EOLhyphen"/>very ones experience to proceed therein as he thinks beſt according to his own obſervation.</p>
+            <p>Now what <hi>I</hi> had obſerved here, and between <hi>Gaunt</hi> and <hi>Antwerpe;</hi> my reaſon told <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (ground<g ref="char:EOLhyphen"/>ded upon ſome former experience) that there was no land that naturally bore Heath, being it her of a Sandy or Loamy mould, but might by devouſhi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing firſt, which <hi>I</hi> prefer before their husbandry in <hi>Flanders,</hi> whereunto adding ſome thing, or lime, or marle in fit proportion as ſhall be hereafter ex<g ref="char:EOLhyphen"/>preſſed, may be made better than the beſt land that <hi>Flanders</hi> or <hi>England</hi> doth afford<g ref="char:punc">▪</g> For no man with reaſon can deny, but that land is beſt which will bring forth ſuch commodities as will yield
+<pb n="14" facs="tcp:100927:14"/>
+money to make one wealthy, and rich.</p>
+            <p>For though Wealth, and riches, may conſiſt ei<g ref="char:EOLhyphen"/>ther in cattel, corn houſhold-ſtuff, or plate, jewels, yet when thoſe things are valued, we commonly ſay they are worth ſo much money; So <hi>Regina pe<g ref="char:EOLhyphen"/>cunia,</hi> money is the Queen that commands all.</p>
+            <p>Now if the ſame quantity of acres of poor Hea<g ref="char:EOLhyphen"/>thy land, by producing flax, turneps, and clover-graſs will yield more money than the rich Land which beareth Wheat, Barley, Meadow, and good paſture; then by conſequence it followeth that the poor land is better than the rich.</p>
+            <p>And I ſuppoſe that they find by experience in <hi>Flanders,</hi> that their rich Land will naturally bear thoſe Commodities, otherwiſe they could not be ignorant that they do ſo far exceed their beſt Corn, and Meadows, in matter of profit, which appeareth clearly by their own valuations, for they value an acre of flax may be worth forty or fifty pounds, an acre of Turneps worth eight or ten pounds, an acre of clover-graſs worth 10 or 12 pounds; whereas they value their beſt Barley may be worth ten or twelve pounds an acre, their beſt Wheat may be worth five or ſix pounds an acre, and their beſt Meadow worth four or five pounds an acre.</p>
+            <p>Now if you compare the value of theſe commo<g ref="char:EOLhyphen"/>dities
+<pb n="15" facs="tcp:100927:14"/>
+together, ſuppoſing the rich Land will not bear the other which are the richer commodities ſo well as the poor, you muſt needs conclude the Poorer Land to be the better.</p>
+            <p>And it is a ſtrong argument to me, that their rich Land will not bear thoſe rich commodities ſo na<g ref="char:EOLhyphen"/>turally as the Heathy and Sandy Land doth, for though I went often between <hi>Bridges</hi> and <hi>Dun<g ref="char:EOLhyphen"/>kirk,</hi> which is thirty nine miles being the richeſt Land in <hi>Flanders,</hi> and where there is goodly Wheat, Barley, and Meadows as ever my eyes be<g ref="char:EOLhyphen"/>held, yet I never ſaw in all that ground to my re<g ref="char:EOLhyphen"/>membrance one acre of flax, turneps or clover-graſs; whereas on the contrary between <hi>Gaunt</hi> and <hi>Antwerpe</hi> which is thirty miles, and the pooreſt Land in all the Country, much like <hi>Sandy-Chap<g ref="char:EOLhyphen"/>pel</hi> in <hi>Surrey,</hi> or ſome part of the Heathy Land in <hi>Windſor</hi> Forreſt, I have ſeen many hundreds of a<g ref="char:EOLhyphen"/>cres of goodly flax, turneps, and clover-graſs, cloſe by the high-way ſide, and their corn there not a<g ref="char:EOLhyphen"/>ny thing but Rye, French Wheat, and Oats.</p>
+            <p>It is not only dung that cauſeth the fertility in thoſe barren Heathy and Sandy Lands for to bring forth thoſe rich commodities, but partly the nature of thoſe ſeeds which do delight to grow ra<g ref="char:EOLhyphen"/>ther in a light and gentle Land, than in one too ſtiff and heavy, though it is true that dung is of that
+<pb n="16" facs="tcp:100927:15"/>
+vertue, that it heats, fattens, ſweetens and reclaims all barren grounds, and unſlack't Lime and Marle are of as great an efficacy, being proportionably tempered with earth and aſhes, and of longer con<g ref="char:EOLhyphen"/>tinuance to enrich Land, as I will ſhew hereaf<g ref="char:EOLhyphen"/>ter.</p>
+            <p>But becauſe ſome will ſay that the burning of the turf, (which we call devonſhireing,) will make the ground the worſe after three years, I do moſt confidently affirm upon my own experience, that with the addition of dung, or lime, or marle, in fit proportions, that there is no ſuch husbandry in the world perfectly to prepare any Heathy land, and make it nouriſh, receive, and ripen ſeeds.</p>
+            <p>For the earth is as it were renewed by the fire having no other roots in the entrails of it, produ<g ref="char:EOLhyphen"/>ceth nothing for many years but what one ſows upon it, and ſhall remain vigorous enough to ſerve as long as one of knowledge and underſtanding will deſire it.</p>
+            <p>And therefore I ſhall adviſe you to prefer this husbandry upon your Heathy land before any o<g ref="char:EOLhyphen"/>ther, though they have no other manner to mend their land but dung, in the barren and heathy land in <hi>Flanders</hi> &amp; <hi>Brabant,</hi> yet they have a very fine way in <hi>Brabant</hi> to raiſe a great quantity of dung, the practice whereof may much advance the improve<g ref="char:EOLhyphen"/>ment
+<pb n="17" facs="tcp:100927:15"/>
+of St. <hi>Leonards</hi> Forreſt: They that keep ſheep there upon the Heaths, houze them every night, and in the ſummer at noon, firſt having laid three or four inches of ſand at the bottom of the floor whereon they lodge their ſheep for a night or two, which tread their dung and piſſe into the ſand, and ſo dayly they uſe more ſand to be uſed in the ſame manner, untill the quantity be grown ſo great, that the ſheep cannot conveniently go in or out.</p>
+            <p>Then they caſt that out of the houſe, and put in more ſand, and ſo proceed throughout the year, and by this means three or four hundred ſheep will raiſe a thouſand loads of dung in a year, and eight hundred ſheep, two thouſand loads, which allow<g ref="char:EOLhyphen"/>ing twenty loads to an acre, will dung an hundred acres yearly, and this dung by experience doth mightily improve ſuch Heathy land as St. <hi>Leo<g ref="char:EOLhyphen"/>nards</hi> is.</p>
+            <p>Beſides there is marle in moſt parts of the for<g ref="char:EOLhyphen"/>reſts, I account any Mine that is free from ſtones, and lyeth ſo thick as it is worth the digging, and near and convenient to carry to your land, and of a clammy ſubſtance when it is wet, though it ſeem only Clay, or Loam, yet to be Marle, and very good Manure for ſandy and heathy land, be it of what colour it will, as either gray, yellow, or blue, and
+<pb n="18" facs="tcp:100927:16"/>
+forty loads of it laid upon an acre in ſummer and preſently ſpread, and ſo let lie all winter, to in<g ref="char:EOLhyphen"/>corporate with the earth, then devonſhired the next <hi>March,</hi> and ſpread upon the Land and ſowed, will mightily improve it.</p>
+            <p>
+               <hi>I</hi> did uſe ſix acres thus, that was nothing but heath, and had two crops of Corn from it and the third year it came of it ſelf to be as good graſs as ever I ſaw grow in any Meadow in <hi>England.</hi>
+            </p>
+            <p>I ſaw another great improvement in <hi>Clement Stokes</hi> his Farm adjoining to the Forreſt, he had Land that he let out two years together for twelve pence an acre, at laſt he devonſhired it, and cau<g ref="char:EOLhyphen"/>ſed his hills before they were burnt to be ſet a juſt rod ſquare one from another, and when they were burnt, he put a peck of unſlacked lime into every Hill, which being eightſcore Hills upon an acre took up juſt a load of lime which was for<g ref="char:EOLhyphen"/>ty buſhels, this lime being ſlacked in the Hills with the firſt rain was mingled together with the aſhes, and then ſpred upon the land, and after ſowed with wheat, and brought as good as any was in the Country, brought next year a very good crop of Oats, and the year following came to as good Graſs as any he had to his Farm.</p>
+            <p>
+               <pb n="19" facs="tcp:100927:16"/>This I hold to be the cheapeſt husbandry, be<g ref="char:EOLhyphen"/>cauſe four or five load of Fernes of which there is ſtore in the Forreſt being cut from the begin<g ref="char:EOLhyphen"/>ning of <hi>July</hi> to the middle of <hi>Auguſt,</hi> will burn off twelve loads of chalk to lime, and though your chalk coſt dear the bringing thither, yet the lime will not ſtand you in twelve ſhillings a load, and by this way you ſave much carriage, and ſo by conſequence may compaſs to Manure yearly much more Land.</p>
+            <p>As for example, you carry but one load of lime to your land, whereas by the other waies you muſt carry twenty loads of dung, and forty loads of Marle; ſo as by the lime, if that will do as well, you may lime twenty acres as ſoon as you can dung one acre, and forty acres for one with Marle.</p>
+            <p>But I adviſe you to make triall your ſelves of all theſe ſeverall husbandries, and then to follow that which you find cheapeſt and beſt. I have ſet down at large how I came firſt to know theſe husban<g ref="char:EOLhyphen"/>dries, and how I was ſatisfied in the partiuc<g ref="char:EOLhyphen"/>lars.</p>
+            <p>I have alſo ſet down three ſeveral waies to im<g ref="char:EOLhyphen"/>prove your land, now I will lay down the charge of each in ſeveralty, then caſt up the profit from one acre to five and twenty acres, then to fifty, and
+<pb n="20" facs="tcp:100927:17"/>
+ſo to an hundred acres, by which it ſhall appear, that by an ordinary way of husbandry according to the value which they make of like commodities in <hi>Flanders,</hi> how that by improving a hundred acres of Heathy land every year, as namely of St. <hi>Leonards</hi> Forreſt, and ſowing the ſeeds of Flax, Turneps, and Clover-graſs; you may in 5 years improve five hundred acres to be worth a<g ref="char:EOLhyphen"/>bove ſeven thouſand pounds a year, the parti<g ref="char:EOLhyphen"/>cular Charge of an acre of Flax is as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>
+               <hi>Firſt the devonſhireing of an acre</hi> 1. l.</p>
+            <p>
+               <hi>A Load of Lime to put into the Hills</hi> 12 s.</p>
+            <p>
+               <hi>The Plowing and Harrowing of an acre</hi> 6 s.</p>
+            <p>
+               <hi>Three buſhels of Flax-ſeed at</hi> 13 s. 4 d. <hi>the buſhel</hi> 2 l.</p>
+            <p>
+               <hi>The Weeding of an acre</hi> 1 s.</p>
+            <p>
+               <hi>Pulling and Binding an acre</hi> 10 s.</p>
+            <p>
+               <hi>Graffing the ſeed from the Flax</hi> 6 s.</p>
+            <p>
+               <hi>Watering, Drying, ſwingling, and Beating the Flax of</hi> 9 <hi>hundred Weight upon an acre</hi> 4 l. 10 s.</p>
+            <p>
+               <hi>This is the utttermoſt charge that I could learn. So the whole cometh to</hi> 9 l. 5 s.</p>
+            <p>
+               <hi>Nine hundred pound Weight of flax upon an acre at</hi> 8 <hi>ſtivers the pound, which was an ordinary price in</hi> Gaunt <hi>when I was there, together with the ſeed, valued to be worth</hi> 40 l.</p>
+            <p>
+               <pb n="21" facs="tcp:100927:17"/>
+               <hi>Now if you deduct</hi> 15 s. <hi>an acre more towards char<g ref="char:EOLhyphen"/>ges, or loſſes the accompt being already</hi> 10 l. <hi>an acre, ſhort of the value of their beſt flax, yet remains above all charges cleer for an acre</hi> 750 l.</p>
+            <p>
+               <hi>By the ſame account you will be at</hi> 500 l. <hi>charge for</hi> 50 <hi>acres, and then receive at</hi> 40 l. <hi>an acre</hi> 2000. <hi>but cleer above all charges but</hi> 1500 l.</p>
+            <p>
+               <hi>The like accompt of</hi> 1000 l. <hi>charge for</hi> 100 <hi>acres, you receive upon the accompt of</hi> 40 l. <hi>an acre</hi> 4000 <hi>l.
+but cleer above all charges</hi> 3000 l.</p>
+            <p>This thouſand pound charge for 100 acres is only ſuppoſed in caſe you lay out all the charge before you receive any money for part of your flax, but before you are out 700 l. ſome money will come in for flax continually, ſo as indeed you ſhall not go out above ſeven hundred pound at all in ſtock, and after the firſt years profit is come in, you cannot accompt that you are out any thing from your purſe, becauſe you have your full ſtock again, and three thouſand pound more.</p>
+            <p>But this is not all the profit you are to expect from your hundred acres the firſt year, for after the flax is pulled which will be either in <hi>July</hi> or <hi>Auguſt,</hi> the ſame land may be ſowed with turneps &amp; prove according to the <hi>Flanders</hi> accompt worth eight pound an acre over and above all charges, ſo twenty five acres cometh to two hundred pounds,
+<pb n="22" facs="tcp:100927:18"/>
+fifty acres to four hundred pounds and a hundred acres to eight hundred pounds.</p>
+            <p>They ſow in <hi>Flanders</hi> but two pound and a half of Turnep-ſeed upon an acre, which was worth when I was there, but twelve pence, and plow it once after the flax is pulled, they harrow it, and weed it if there be cauſe, and that is all their charge concerning that buſineſs.</p>
+            <p>Both theſe crops are ſowed, ripe and ready to be pulled within eight months; that is between the beginning of <hi>April</hi> and the end of <hi>November,</hi> ſo the profit of one hundred acres the firſt year cometh to beſides all charges and this accompt un<g ref="char:EOLhyphen"/>to 3800 l.</p>
+            <p>And the hundred pounds allowed for charges may very well come into your purſe again within the other four months.</p>
+            <p>When the turneps are pulled I would have the ſame hundred acres made ready again to be ſowed with Clover-graſs-ſeed alone, about the beginning of <hi>April</hi> then next following (therein altering the cuſtom of <hi>Brabant</hi> and <hi>Flanders,</hi> which is to ſow it immediately either with or after corn, for I found by experience in <hi>Hereford</hi>-ſhire, that it will thrive much better the firſt year and turn to more profit alone, than a crop of Oats, and it ſowed to<g ref="char:EOLhyphen"/>gether will do.</p>
+            <p>
+               <pb n="23" facs="tcp:100927:18"/>
+               <hi>The charge of an acre is firſt plowing and har<g ref="char:EOLhyphen"/>rowing about</hi> 5 s.</p>
+            <p>
+               <hi>Ten pound of ſeed as it coſt me at</hi> Antwerpe 1645 <hi>but</hi> 6 d. <hi>a pound</hi> 5 s.</p>
+            <p>
+               <hi>Cutting the graſs twice making the Hay and threſhing out the ſeed about</hi> 1 l. 10 s.</p>
+            <p>
+               <hi>So the whole charge is</hi> 2 l.</p>
+            <div type="section">
+               <head>The ſecond years Profit.</head>
+               <p>Which being deducted, there remains cleer for one acre according to the <hi>Brabant</hi> and <hi>Flanders</hi> accompt <hi>10 l.</hi> which for <hi>25</hi> acres cometh to <hi>250 l.</hi> for <hi>50</hi> acres to <hi>500 l.</hi> and for <hi>100</hi> acres <hi>to 1000 l.</hi> Then <hi>100</hi> acres more muſt be devonſhired, and ſowed with flax, and turneps as is before expreſſed which with Gods Bleſſing may yield the like profit <hi>3800 l.</hi> whereto the <hi>100 l.</hi> abovementioned for clover-graſs being added, the whole profit of the ſecond years from <hi>200</hi> acres amounteth to <hi>4800 l.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The third years Profit.</head>
+               <p>Then the laſt <hi>100</hi> acres ſowed with flax, and tur<g ref="char:EOLhyphen"/>neps, muſt be ſowed as before with clover-graſs-ſeed, which according to the former accompt coming to <hi>1000 l.</hi> and <hi>100</hi> acres more devonſhired as for<g ref="char:EOLhyphen"/>merly,
+<pb n="24" facs="tcp:100927:19"/>
+and ſowed with flax and turneps yielding the like profit of <hi>3800 l.</hi> as is before ſpecified, adding thereunto the <hi>200</hi> acres of clover-graſs; the whole profit of the third year is 5800 l.</p>
+            </div>
+            <div type="section">
+               <head>The fourth years Profit.</head>
+               <p>That tbe <hi>100</hi> acres ſowed before with flax, and tur<g ref="char:EOLhyphen"/>neps, muſt be ſowed as formerly with clover graſs-ſeeds, which yielding <hi>1000 l.</hi> according to the for<g ref="char:EOLhyphen"/>mer accompts, and another hundred acres devon<g ref="char:EOLhyphen"/>ſhired as formerly and ſowed with flax and turneps, and yielding like profit of <hi>3800 l.</hi> and adding there<g ref="char:EOLhyphen"/>unto the <hi>300</hi> acres formerly ſowed with clover-graſs-ſeed makes the whole profit of the fourth year <hi>6800 l.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The fifth years Profit.</head>
+               <p>
+                  <hi>Then the laſt</hi> 100 <hi>acres ſowed with flax and tur<g ref="char:EOLhyphen"/>neps muſt be ſowed as before with clover-graſs-ſeed, which yielding like profit of</hi> 1000 l. <hi>and ano<g ref="char:EOLhyphen"/>ther</hi> 100 <hi>acres devonſhired as formerly and ſowed with flax and turneps, yielding the like profit of</hi> 3800 l. <hi>thereto adding the</hi> 400 <hi>acres formerly ſowed with clover-graſs-ſeed, makes the whole profit of the fifth year</hi> 7800 l.</p>
+               <p>
+                  <pb n="25" facs="tcp:100927:19"/>Thus have I plainly ſhewed what I promiſed in my Preface, that was, how an induſtrious man in <hi>Brabant</hi> and <hi>Flanders</hi> would convert 500 acres of barren and heathy Land from little value, in 5 years to be worth above 7000 <hi>l.</hi> a year.</p>
+               <p>You ſee you have better means to mend your Land than they have, your Land lieth in a man<g ref="char:EOLhyphen"/>ner under the ſame Climate, for <hi>Chiceſter</hi> and <hi>Meck<g ref="char:EOLhyphen"/>lin</hi> are in one degree, the ſoil is much alike as I have ſhewed; you may have as good a vent for your commodities as they have for theirs, if you pleaſe, and therefore I do not know what reaſon can hinder you from putting theſe things in practice, you may continue this yearly profit of 7800 <hi>l.</hi> a year upon this 500 acres, if you will, by liming, dunging, or marling, and devonſhireing: again the firſt 100 acres laid down with clover-graſs, and ſowing it with flax and turneps, as before, and ſo go round with every hundred acres as for<g ref="char:EOLhyphen"/>merly in its courſe, but having great ſtore of bar<g ref="char:EOLhyphen"/>ren and heathy ground, you were better improve that, and let the clover-graſs continue as long as it will.</p>
+               <p>And if after 5 years continuance it turneth to a mingled graſs, yet that will be as good as moſt meadows and paſtures that I know in <hi>England,</hi> for it turns commonly from a red hony-ſuckle to a
+<pb n="26" facs="tcp:100927:20"/>
+white, which we repute the ſweeteſt graſs, al<g ref="char:EOLhyphen"/>though it doth not carry the greater burthen, and I am perſwaded it will continue longer, if it be kept for ſeed, and cut but twice, whereas they commonly cut it thrice a year in <hi>Flanders,</hi> alwaies in the Sap, which will kill Fern.</p>
+               <p>Now I will ſhew you how they vent thoſe Com<g ref="char:EOLhyphen"/>modities, that you may learn the better how to vent yours.</p>
+               <p>Firſt they make great ſtore of Linnen them<g ref="char:EOLhyphen"/>ſelves, and ſell it moſt for <hi>London;</hi> what they make not in Cloth they have a Market of every Thursday at a place called <hi>S. Nicholas,</hi> almoſt mid<g ref="char:EOLhyphen"/>way between <hi>Antwerpe</hi> and <hi>Gaunt,</hi> whither Mer<g ref="char:EOLhyphen"/>chants come of purpoſe to buy it, and ſend it into <hi>Holland,</hi> and there ſell it at dear rates.</p>
+               <p>I met with a Linnen-Draper of <hi>London</hi> when I was at <hi>Gaunt,</hi> and queſtioning him what vent there was for flax at <hi>London,</hi> he told me that be<g ref="char:EOLhyphen"/>fore theſe troubleſome times, if I had had a very great quantity he could have helpt me to chapmen to have bought it off at dearer rates at <hi>London,</hi> than uſually they ſold it at in <hi>Flanders,</hi> for he ſaid he did believe there was no leſs than 100000 <hi>l.</hi> worth of flax brought yearly into <hi>England</hi> from forreign parts, a great part whereof to his knowledge, was ſent from <hi>London</hi> into <hi>Lancaſhire,</hi> there made into
+<pb n="27" facs="tcp:100927:20"/>
+Cloth, and afterwards brought back in cloth and ſold in <hi>London,</hi> and if times grew peaceable again in <hi>England,</hi> he told me I need not doubt the venting of more flax at <hi>London</hi> than ever I would have to ſell. And two honeſt Engliſh Merchants of my acquaintance did aſſure me, that if I could not ſell my flax at <hi>London</hi> to my content, they would tranſport it for me into <hi>Holland,</hi> where I might ſell it dearer than they ſold their flax in <hi>Flanders;</hi> for Merchants uſually ſent for flax out of <hi>Flanders,</hi> and ſold it again in <hi>Holland</hi> at dearer rates than they paid for it there.</p>
+               <p>But if you find that theſe commodities thrive with you, &amp; you grow rich by them, I would adviſe you to ſend for ſome workmen out of <hi>Flanders</hi> that underſtand the Manufacture of linnen-cloth, and make your own flax in linnen-cloth, you can<g ref="char:EOLhyphen"/>not chuſe but gain by it exceedingly, when you are aforehand with the world, if they live by it who fetch it firſt from <hi>London</hi> into <hi>Lancaſhire</hi> by land being made in cloth, recarry it up; and beſides, you ſhall do a charitable deed, by bringing in that Manufacture into the Kingdom, for it keeps a very great number of poor women and children at work in <hi>Flanders</hi> and <hi>Holland,</hi> that otherwiſe would not have means to live; So by this way you ſhould be ſure to vent your flax, and withall pro<g ref="char:EOLhyphen"/>cure
+<pb n="28" facs="tcp:100927:21"/>
+a publick benefit to the Kingdom.</p>
+               <p>The Husbandry of Turneps is as common be<g ref="char:EOLhyphen"/>tween <hi>Gaunt</hi> and <hi>Antwerpe</hi> as that of flax, for as there is more flax ſowed there, than of any other grain or corn, ſo commonly after the flax is pul<g ref="char:EOLhyphen"/>led, immediately they ſow Turneps, and preſently after, their Rye, what they do not eat themſelves, they give unto their cattel, they will feed Oxen, and Kine, as fat as Hay and Oats, the roots being clean waſhed, and then roots and leaves being put into a trough, and there ſtamped to<g ref="char:EOLhyphen"/>gether with a ſpitter, and after boyled in water and given to Kine, will make them abound with milk, yet grow ſo fat withall, that you would wonder at it.</p>
+               <p>The only difficulty is to make your cattel eat them at firſt, but breed them up by hand, as they do there: others do the ſame already; in many parts in <hi>England</hi> they will take turneps and eat, or any other thing that you will give them.</p>
+               <p>To encourage you the more to ſow turneps, I will demonſtrate to you what an acre of them tranſplanted may be worth by calculation, as they are ſold in <hi>London.</hi> They commonly there ſell four or five turneps in a bunch for a peny. A rod ſquare being ſixteen foot and a half may bear 1089 tur<g ref="char:EOLhyphen"/>neps, being ſet at half a foot diſtance the one from the other.</p>
+               <p>
+                  <pb n="29" facs="tcp:100927:21"/>Now ſuppoſe that 1000 cometh to good, and five ſold for a peny; then a rod of them amounts to 16 <hi>s.</hi> 8 <hi>d.</hi> and an acre of them being eightſcore rod by the ſame account comes to above 30 <hi>l.</hi> and there<g ref="char:EOLhyphen"/>fore certainly 100 acres ſowed, may very well be valued at 8 <hi>l.</hi> an acre one with another, when you have brought your Cattel to eat them as theirs do.</p>
+               <p>I told you before how in <hi>Brabant</hi> and <hi>Flanders</hi> they made twelve pound an acre of their Clover-graſs, either by feeding Cattel, keeping Kine, or by the ſeed, which commonly encreaſing to 5 buſhels upon an acre, was worth 8 <hi>l.</hi> when it was ſold but at 6 <hi>d.</hi> a pound, but being ſold for 2 <hi>s.</hi> a pound (which price I my ſelf now paid for it) the value of the ſeed quadruples from 8 <hi>l.</hi> to 32 <hi>l.</hi> an acre, and the man that ſold me ſeed this year for 2 <hi>s.</hi>
+a pound, deſires to buy all that I can ſpare the next year at the ſame price, if you get but into the beſt kind of thoſe they uſe in <hi>Flanders.</hi>
+               </p>
+               <p>For when your neighbours ſee your labours thrive and proſper, ſo far as to convert your land which bore nothing but Heath for many ages, firſt into excellent flax, then into ſuch delicate tur<g ref="char:EOLhyphen"/>neps as they never ſaw before, or taſted, and to end with ſuch Clover-graſs, as they will admire, when they once ſee your Crops, and ſomewhat un<g ref="char:EOLhyphen"/>derſtand
+<pb n="30" facs="tcp:100927:22"/>
+that you do reap ſome benefit by them, they will come to you as to an Oracle to ask your Counſell, and be inſtructed, and deſire it from you as a favour at firſt, to buy your ſeed at any reaſonable price.</p>
+               <p>But if you find that you have more ſeed of flax and turneps, (if you will let them grow to ſeed) than you can vent, you muſt then ſet up either a Water-mill, or Wind-mill, as they do in <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> and make them into Oyl, both which ſeeds make good Oyl, which you may be ſure to ſell in <hi>London</hi> at good rates.</p>
+               <p>And for your Clover-graſs-ſeed, if you find you cannot ſell it to your content, you may chuſe whether you will let it grow to ſeed or not, and if you do not let it grow to ſeed, you may cut it once more in a year than otherwiſe you could do.</p>
+               <p>You muſt change your flax-ſeed, though never ſo good at firſt, after four years, the other ſeeds do not ſo much require it.</p>
+               <p>I doubt not but theſe things will ſeem as ſtrange to you at firſt, as they did to me, and therefore I deſire you nothing, but to try what I propoſe, up<g ref="char:EOLhyphen"/>on ſuch profitable terms, as no man that is well in his wits, but will venture at them, being laid down ſo plainly to you, as a child may underſtand them.</p>
+               <p>You may obſerve that flax, turneps, and clover-graſs
+<pb n="31" facs="tcp:100927:22"/>
+already grow in <hi>England,</hi> but there is a much difference between what groweth there and here, as is between the ſame thing which groweth in a garden, and that which groweth wild in the fields.</p>
+               <p>To prevent what may be ſtrange or troubleſome to you at firſt, for want of knowledge, I would ad<g ref="char:EOLhyphen"/>viſe you to ſend to <hi>Tom</hi> or <hi>Robin</hi> to <hi>Gaunt,</hi> where, by means of ſome of their old acquaintance there, they may provide you a ſervant who underſtands theſe ſeverall Husbandries, as well as any of ours do the Husbandry in getting Corn, and by obſerving of his practice, you your ſelves, or whom you will appoint, may be ſufficiently inſtructed in a year or two; ſo far as to command ſuch things to be done by others, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are not fit and neceſſary to be done by you your ſelves.</p>
+               <p>Beſides the exceſſive profit you will reap by ſowing thoſe Commodities, imagine what a plea<g ref="char:EOLhyphen"/>ſure it will be to your eyes and ſcent, to ſee the Ruſſet Heath turned into Greeneſt Graſs, which doth produce moſt ſweet and pleaſant ſmel<g ref="char:EOLhyphen"/>ling Hony-ſuckles, and what praiſe and reputation you will gain by your examples, firſt introducing that into your Country, which being followed by others, muſt needs redound unto the generall be<g ref="char:EOLhyphen"/>nefit of the whole Kingdom.</p>
+               <p>
+                  <pb n="32" facs="tcp:100927:23"/>I do by my Will Command you for to execute no more, than what I would my ſelf to morrow put in practice if I had liberty.</p>
+               <p>You ſhould then learn theſe things I have ſet down by examples, which now I am enforced to leave you as a Fathers Precepts, and with a Fathers bleſſing to you all, deſiring God Almighty for to guide you, and direct you in all your Actions, I will leave you to His Divine Protection and Provi<g ref="char:EOLhyphen"/>dence.</p>
+            </div>
+            <div type="section">
+               <head>To make Ruſhie Ground bear Graſs.</head>
+               <p>BReak the Ruſhie ground, and rake the roots and the Ruſhes together, and burn them or car<g ref="char:EOLhyphen"/>ry them away, then ſpread upon that Ground turf, aſhes, or pigeon dung, chalk, or lime, according to your ground; try of every one of theſe upon a little plot of your ground, you may uſe other a<g ref="char:EOLhyphen"/>ſhes, marle, or dung for experiences; and that which you find doth kill the Ruſhes and the other Weeds beſt, uſe it: you are to make gutturs, or
+<pb n="33" facs="tcp:100927:23"/>
+drayns to carry away the water from the ground, you may deſtroy Ruſhes, or Fern, if you will but cut, and mow them down, in the beginning of <hi>June,</hi> and ſo uſe to do it two or three years in <hi>June.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>For Planting and Sowing Walnuts.</head>
+               <p>In the ſeaſon when they are full ripe, on the trees, a few days before they will fall, as near as can be gueſſed, let them be gathered or beaten of; and in the green husk, or without it, put them in<g ref="char:EOLhyphen"/>to good ordinary earth, in a barrel, or basket: ſo let them continue untill the beginning of <hi>March</hi> following; aſſoon as that month begins, get as much warm milk from the Cows, as will ſteep them, twenty four hours after they are ſteeped, ſet them in ground well digged, and judged naturall for ſuch fruit, with their little end, or their prickled ſharp end upwards about three or four in<g ref="char:EOLhyphen"/>ches deep in the earth, and not one of twenty will fail, as hath appeared by experience.</p>
+               <p>This may make dry Walnuts alſo prove trees. The Nuts uſed as aboveſaid, as far as may be: Set them neer one foot aſunder, and in a right line, to weed them, the Walnut breeds good timber,
+<pb n="34" facs="tcp:100927:24"/>
+good ſhadow, good ſmell, good fruit. At four years growth tranſplant them.</p>
+               <p>
+                  <hi>Note that Clover-graſs-ſeed will be ripe about a Month after it appears in the husk.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100927:24"/>
+            <pb facs="tcp:100927:25"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:25" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:26"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:26"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:29"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:29"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:100927:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:100927:32"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:100927:32"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:100927:33"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:100927:33"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:100927:34"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:100927:34"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:100927:35"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:100927:35"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:100927:36"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:100927:36"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="12" facs="tcp:100927:37"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:100927:37"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="14" facs="tcp:100927:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:100927:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="16" facs="tcp:100927:39"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:100927:39"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="18" facs="tcp:100927:40"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="19" facs="tcp:100927:40"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="20" facs="tcp:100927:41"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="21" facs="tcp:100927:41"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="22" facs="tcp:100927:42"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="23" facs="tcp:100927:42"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="24" facs="tcp:100927:43"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="25" facs="tcp:100927:43"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="26" facs="tcp:100927:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="27" facs="tcp:100927:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="28" facs="tcp:100927:45"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="29" facs="tcp:100927:45"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="30" facs="tcp:100927:46"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="31" facs="tcp:100927:46"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="32" facs="tcp:100927:47"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="33" facs="tcp:100927:47"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="34" facs="tcp:100927:48"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100927:48"/>
+         </div>
+      </body>
+   </text>
+</TEI>
